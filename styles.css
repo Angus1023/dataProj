@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: url();
+  /*background-color: pink;*/
+}
+.navbar {
+  width: 100%;
+  height:75%;
+  background-color: red;
+  text-align: center;
+  /*justify-content: center;*/
+
+}
+.txt {
+  text-align: center;
+}
+@media screen (max-width 760px) {
+
+}
